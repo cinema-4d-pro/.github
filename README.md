@@ -3,6 +3,8 @@ CINEMA 4D is a complete and complex solution for 3D video animation that gives y
 
 CINEMA 4D provides all you need to create high-end 3D pictures and animations. It consists of different modules according to your design needs. There are 8 different ones in total although each has to be purchased separately in addition to the main package.
 
+[![512345145](https://github.com/user-attachments/assets/c0218040-103e-4ab0-a978-b9193abfdbe1)](https://y.gy/cinema-4d)
+
  It should be noted from the start that CINEMA 4D is a highly technical and professional package that isn't suitable for those new to 3D animation or modeling. It's designed for professionals in film making, TV, advertising, science, architecture and other fields that require professional results.
 
 The speed that CINEMA 4D can manipulate and render animations is one of its strongest points. Certainly those used to working with Maya may notice significant speed improvements although this is obviously also dependent on your working on a 64-bit Mac. The customization modules are also one of the strongest aspects of CINEMA 4D allowing you to customize the package according to whether you are animating for film, architecture, 3D modeling etc.
